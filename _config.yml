@@ -18,10 +18,10 @@ avatar: http://img4.imgtn.bdimg.com/it/u=2695464812,393161432&fm=206&gp=0.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: 382023823@qq.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: github.com/lixueping
   instagram:
   linkedin:
   pinterest:
@@ -34,14 +34,14 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: Howtolearn
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://www.lixueping.win
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
