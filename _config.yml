@@ -4,7 +4,7 @@
 ######################### theme kunka condigure ##############################################
 # Where things are
 source:       .
-destination:  ./_site
+# destination:  ./_site
 plugins:      ./_plugins
 layouts:      ./_layouts
 paginate:     8
