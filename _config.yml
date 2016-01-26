@@ -120,8 +120,8 @@ baseurl: /jekyll_demo
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: Oh no!
-description: 人生到处知何似，应似飞鸿踏雪泥
+title: 我的技术博客
+description: 江湖就是人情世故
 theme: slate
 disqusname: lixueping
 
