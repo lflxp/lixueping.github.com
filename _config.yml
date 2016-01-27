@@ -118,7 +118,7 @@ disqus:
 #################################### global configure #######################################
 
 username: lixueping
-baseurl: /jekyll_demo
+baseurl: /
 markdown: redcarpet
 safe: false
 highlighter: pygments
